@@ -1,0 +1,25 @@
+.card {
+  width: 390px;
+  color: white;
+}
+
+.card-title {
+  line-height: 7px;
+}
+
+.form-range {
+  width: 200px
+}
+
+.range {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.checkboxContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
